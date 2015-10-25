@@ -48,4 +48,5 @@ Notes: <BR>
 3. Descriptive activity names were added to name the activities in the data set.
 4. Data set variable names were renamed with descriptive variable names from features.txt. 
 5. From the data set in step 4, a second, independent tidy data set was created with the average of 
-   each variable for each activity and each subject.  This data set is saved to ```tiny_data_set.txt```.
+   each variable for each activity and each subject.
+6. This data set is saved to ```tiny_data_set.txt```.  There is one row for each subject (30) for each activity (6) for a total of 180 rows.  The 1st column is subject, 2nd column activity, and the remaining 79 columns are average values for all the mean() and std() calculations from the measurements.
