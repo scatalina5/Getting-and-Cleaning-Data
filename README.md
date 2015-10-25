@@ -17,5 +17,5 @@ Perform the following steps to run this solution.
 
 1. Download ```run_analysis.R``` to your R working directory.
 2. Download the data set to your working directory, see CodeBook.md for details.
-3. Launch script with ```source("run_analysis.R")```.
+3. Launch script with ```source("run_analysis.R")```.  Library ```reshape2``` is required.
 4. Script will create ```tiny_data_set.txt``` in your working directory.
