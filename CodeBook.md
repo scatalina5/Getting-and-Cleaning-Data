@@ -51,7 +51,9 @@ Notes: <BR>
    each variable for each activity and each subject.
 6. This data set is saved to ```tiny_data_set.txt```.  There is one row for each subject (30) for each activity (6) for a total of 180 rows of data.  The 1st column lists the subject id, the 2nd column lists the activity, and the remaining 79 columns are the average values for all the mean() and std() calculations from the measurements.
 
-##Tidy Data Set Features_selected:
+##Tidy Data Set Variables (features_selected):
+This is a list of the tidy data set column variables.<BR>
+<BR>
 "1" "subject"<BR>
 "2" "activity_label"<BR>
 "3" "tBodyAcc-mean()-X"<BR>
