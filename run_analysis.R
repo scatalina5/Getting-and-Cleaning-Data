@@ -56,6 +56,6 @@ data.select <- cbind(subject=data$subject,activity_label=data$activity_label,dat
 data.melt <- melt(data.select,id=c("subject","activity_label"),measure.vars=features_select_names)
 tidy_data_set <- dcast(data.melt, subject + activity_label ~ variable,mean)
 
-## Tidy dataset
+## Write tidy data set to text file
 write.table(tidy_data_set, file="./tidy_data_set.txt",row.name=FALSE)
 
