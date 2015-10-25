@@ -43,7 +43,7 @@ Notes: <BR>
 - Each feature vector is a row on the text file.
 
  ##Data Set Transformations:
-1. Train and Test data was merged to create one data set.
+1. Train and Test data were merged to create one data set.
 2. Only the mean and standard deviation for each measurement were included in the tiny data set.
 3. Descriptive activity names were added to name the activities in the data set.
 4. Data set variable names were renamed with descriptive variable names from features.txt. 
