@@ -1,6 +1,6 @@
 # CodeBook
 
-This document describes the variables, the data, and any transformations or work that were performed to clean up the data.
+This document describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
 ##Data Set Weblinks:
 <A HREF='http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/' TARGET='blank'>Data Science, Wearable Computing and the Battle for the Throne as World’s Top Sports Brand</A><BR>
